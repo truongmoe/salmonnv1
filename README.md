@@ -7,3 +7,4 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 -----------------------------
 +++++++++++++++++++++++++++++
 skeleton ver 2
+from local
